@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "ea2b1f70c6dfb82321f0e256150331ae",
+    "content-hash": "0186d321ade39f7d3501975c17ea28f1",
+    "packages": [
+        {
+            "name": "andaniel05/object-collection",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/andaniel05/ObjectCollection.git",
+                "reference": "ff0fbc641042f609cf49c3e40f7a1a82b78ba16f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/andaniel05/ObjectCollection/zipball/ff0fbc641042f609cf49c3e40f7a1a82b78ba16f",
+                "reference": "ff0fbc641042f609cf49c3e40f7a1a82b78ba16f",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Andaniel05\\ObjectCollection\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Andy D. Navarro",
+                    "email": "andaniel05@gmail.com"
+                }
+            ],
+            "time": "2016-10-04 00:53:02"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

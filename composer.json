@@ -1,0 +1,16 @@
+{
+    "name": "andaniel05/hierarchy-trait",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andy D. Navarro",
+            "email": "andaniel05@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Andaniel05\\HierarchyTrait\\": "src/"
+        }
+    }
+}
